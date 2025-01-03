@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGgzbzU1Nml5cWJybTlvemgyNHZuNnFocXhjem04eTdqNmdpZHNqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.webp"  />
+</div>
 
-<!--
-**bkaleta/bkaleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="center">Hi 👋! My name is Bartosz and I'm a 42 Warsaw student on my journey to become programmer!</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/bkaleta/bkaleta/output/snake.svg" alt="Snake animation" />
+
+###
